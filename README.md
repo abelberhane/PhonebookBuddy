@@ -8,7 +8,6 @@ databases. Excited to see what comes next.
 ![alt text](https://github.com/abelberhane/PhonebookBuddy/blob/master/Images/Screenshots/InitialSH.png?raw=true)
 
 Currently running into SQL connectivity error 40 which means
-it cannot establish a connection. Can't wait to take a look at this next time and progress! I have some screenshots below of the current 
-stage as well as the error message that pops up. 
+it cannot establish a connection. I have some screenshots below of the error message that pops up. 
 
 ![alt text](https://github.com/abelberhane/PhonebookBuddy/blob/master/Images/Screenshots/Error40SH.png?raw=true)
