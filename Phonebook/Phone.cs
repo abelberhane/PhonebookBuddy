@@ -38,7 +38,7 @@ namespace Phonebook
             textBox1.Focus();
         }
 
-        // 
+        // Logic for
         private void button2_Click(object sender, EventArgs e)
         {
 
