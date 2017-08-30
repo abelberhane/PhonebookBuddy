@@ -7,6 +7,22 @@ databases. Excited to see what comes next.
 
 ![alt text](https://github.com/abelberhane/PhonebookBuddy/blob/master/Images/Screenshots/InitialSH.png?raw=true)
 
+
+---------------------------------------------------------------------------------------------------------
+
+Updated - 
+
+Pulling up the code on my work computer I was able to test the project and do some digging a bit more. Once I opened it and went to the 
+server explorer, I added the connection and created the new phonebook database with no problem. I have added a screenshot below. I will continue to work on this when I have the free time now that I now I can create the tables and continue. 
+
+![alt text](https://github.com/abelberhane/PhonebookBuddy/blob/master/Images/Screenshots/WorkingSH.png?raw=true)
+
+When I search services.msc on my computer, the recommended tip is to look for the instance of sql server, turn it off and then on. It actually does not show up for me and I will have to reinstall SQL Server entirely in my home computer and see if I can get the full suite installed this time around with all of the components. 
+
+---------------------------------------------------------------------------------------------------------
+
+Previous Bugs - 
+
 Currently running into SQL connectivity error 40 which means
 it cannot establish a connection. I have some screenshots below of the error message that pops up. 
 
