@@ -7,3 +7,12 @@ c:\users\abel\documents\visual studio 2017\Projects\Phonebook\Phonebook\obj\Debu
 c:\users\abel\documents\visual studio 2017\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.exe
 c:\users\abel\documents\visual studio 2017\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
 c:\users\abel\documents\visual studio 2017\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.Phone.resources
+C:\Users\aberhane\Desktop\PhonebookBuddy\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\aberhane\Desktop\PhonebookBuddy\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\aberhane\Desktop\PhonebookBuddy\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\aberhane\Desktop\PhonebookBuddy\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\aberhane\Desktop\PhonebookBuddy\Phonebook\obj\Debug\Phonebook.Phone.resources
+C:\Users\aberhane\Desktop\PhonebookBuddy\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+C:\Users\aberhane\Desktop\PhonebookBuddy\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.Cache
+C:\Users\aberhane\Desktop\PhonebookBuddy\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\aberhane\Desktop\PhonebookBuddy\Phonebook\obj\Debug\Phonebook.pdb
