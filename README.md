@@ -5,9 +5,13 @@ the first stage of development and am now working on the connectivity. The appli
 email, and how you know them. It is simple so far and I have always wanted to make a phonebook so this is great practice working with 
 databases. Excited to see what comes next.
 
-![alt text](https://github.com/abelberhane/PhonebookBuddy/blob/master/Images/Screenshots/InitialSH.png?raw=true)
 
+Updated - 
 
+I was able to get everything working and I am happy with the results. I have some ideas in regards to what I would love to add on to next. I am going to add a Search bar as well to allow easy sifting of searching through my Phonebook Buddy. 
+
+![alt text](https://github.com/abelberhane/PhonebookBuddy/blob/master/Images/Screenshots/DoneSH.png?raw=true)
+![alt text](https://github.com/abelberhane/PhonebookBuddy/blob/master/Images/Screenshots/GridSH.png?raw=true)
 ---------------------------------------------------------------------------------------------------------
 
 Updated - 
