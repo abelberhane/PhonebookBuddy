@@ -5,6 +5,17 @@ the first stage of development and am now working on the connectivity. The appli
 email, and how you know them. It is simple so far and I have always wanted to make a phonebook so this is great practice working with 
 databases. Excited to see what comes next.
 
+Things that I have learned during this project
+1) Working with Drop downs
+2) Setting the Tab Index
+3) How to determine which textbox you'd like the app to focus on at Runtime
+4) A LOT about the SQL Server Configuration Manager and SQL connection troubleshooting
+5) Error 40:  could not open a connection to sql server
+6) Working with Services.msc
+7) How to have a Data Grid populate at Run Time
+8) How to have a Data Grid populate the text fields of the app
+9) Deleting from a Database
+10) Updating from a Database
 
 Updated - 
 
