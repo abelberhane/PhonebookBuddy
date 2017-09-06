@@ -109,5 +109,27 @@ namespace Phonebook
             MessageBox.Show("Updated Successfully to Phonebook Buddy!");
             Display();
         }
+
+        // Search button Logic
+        private void textBox5_TextChanged(object sender, EventArgs e)
+        {
+            // Creates the SQL Connection and Search Query from the Mobile table. Fills the dataGrid.
+            SqlDataAdapter sda = new SqlDataAdapter("SELECT * FROM Mobile WHERE Mobile like '%" + textBox5.Text + "%'", con);
+            DataTable dt = new DataTable();
+            sda.Fill(dt);
+            dataGridView1.Rows.Clear();
+
+            // Logic for each row being displayed
+            foreach (DataRow item in dt.Rows)
+            {
+                // Add a row each time starting from the First Row
+                int n = dataGridView1.Rows.Add();
+                dataGridView1.Rows[n].Cells[0].Value = item["First"].ToString();
+                dataGridView1.Rows[n].Cells[1].Value = item[1].ToString();
+                dataGridView1.Rows[n].Cells[2].Value = item[2].ToString();
+                dataGridView1.Rows[n].Cells[3].Value = item[3].ToString();
+                dataGridView1.Rows[n].Cells[4].Value = item[4].ToString();
+            }
+        }
     }
 }
