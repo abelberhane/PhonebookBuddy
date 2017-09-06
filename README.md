@@ -13,7 +13,16 @@ Things that I have learned during this project
 8) How to have a Data Grid populate the text fields of the app
 9) Deleting from a Database
 10) Updating from a Database
+11) Searching through a Database
 
+Updated - 
+
+I added the ability to search and look for your mobile contacts by number. This method followed the Display function and I manipulated the SQL query to search by using %. 
+
+![alt text](https://github.com/abelberhane/PhonebookBuddy/blob/master/Images/NumberSH.png?raw=true)
+![alt text](https://github.com/abelberhane/PhonebookBuddy/blob/master/Images/SearchSH.png?raw=true)
+
+--------------------------------------------------------------------------------------------------------
 Updated - 
 
 I was able to get everything working and I am happy with the results. I have some ideas in regards to what I would love to add on to next. I am going to add a Search bar as well to allow easy sifting of searching through my Phonebook Buddy. 
